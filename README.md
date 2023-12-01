@@ -68,8 +68,7 @@
 
 
 
-I am a Software Engineer with a huge passion for React.js, TypeScript, Node.js, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture.
-
+I am a Software Engineer who thrives in a dynamic and challenging production environment.  Extensive experience in web programming with a focus on both front-end and back-end development. Proficient in JavaScript and skilled in frameworks and libraries such as React.js, Next.js, Vue.js, Gatsby.js, and Node.js. Strong understanding of TypeScript for building robust and scalable web applications.
 <div align="center">
 <br/>
         
@@ -80,11 +79,11 @@ I am a Software Engineer with a huge passion for React.js, TypeScript, Node.js, 
 
 <div align="right">
 
-<a align="left" href = "mailto:vahan.sahakyan1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+<a align="left" href = "mailto:hovoohanjanyan9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
 <a align="left" href="https://www.linkedin.com/in/vahan-sahakyan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-<a align="left" href="https://github.com/vahan-sahakyan?tab=repositories"><img height="27em" style="border-radius:80px;" src="https://komarev.com/ghpvc/?username=vahan-sahakyan&style=for-the-badge&color=blue" target="_blank"/></a>
+<a align="left" href="https://www.linkedin.com/in/hovhannes-ohanjanian-5053a1200/"><img height="27em" style="border-radius:80px;" src="https://komarev.com/ghpvc/?username=Hovhannes99n&style=for-the-badge&color=blue" target="_blank"/></a>
 
 
 </div>
