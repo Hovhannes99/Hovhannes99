@@ -1,5 +1,8 @@
 # Hey! Nice to see you.
 
+
+I am a Software Engineer who thrives in a dynamic and challenging production environment.  Extensive experience in web programming with a focus on both front-end and back-end development. Proficient in JavaScript and skilled in frameworks and libraries such as React.js, Next.js, Vue.js, Gatsby.js, and Node.js. Strong understanding of TypeScript for building robust and scalable web applications.
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -46,7 +49,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-I am a Software Engineer who thrives in a dynamic and challenging production environment.  Extensive experience in web programming with a focus on both front-end and back-end development. Proficient in JavaScript and skilled in frameworks and libraries such as React.js, Next.js, Vue.js, Gatsby.js, and Node.js. Strong understanding of TypeScript for building robust and scalable web applications.
 <div align="center">
 <br/>
         
