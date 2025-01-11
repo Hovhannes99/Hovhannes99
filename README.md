@@ -60,7 +60,7 @@ I am a Software Engineer who thrives in a dynamic and challenging production env
 <div align="right">
 
 <a align="left" href = "mailto:hovoohanjanyan9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
-<a align="left" href="https://www.linkedin.com/in/vahan-sahakyan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="left" href="https://www.linkedin.com/in/hovhannes-ohanjanian-frontend-developer-fullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
 <a align="left" href="https://www.linkedin.com/in/hovhannes-ohanjanian-5053a1200/"><img height="27em" style="border-radius:80px;" src="https://komarev.com/ghpvc/?username=Hovhannes99n&style=for-the-badge&color=blue" target="_blank"/></a>
