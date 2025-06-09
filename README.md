@@ -1,4 +1,4 @@
-# Hey! Nice to see you.
+# Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Nice to see you.
 
 
 I am a Software Engineer who thrives in a dynamic and challenging production environment.  Extensive experience in web programming with a focus on both front-end and back-end development. Proficient in JavaScript and skilled in frameworks and libraries such as React.js, Next.js, Vue.js, Gatsby.js, and Node.js. Strong understanding of TypeScript for building robust and scalable web applications.
