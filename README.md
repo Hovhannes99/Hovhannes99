@@ -52,7 +52,7 @@ I am a Software Engineer who thrives in a dynamic and challenging production env
 <div align="center">
 <br/>
         
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hovhannes99&theme=discord_old_blurple)
+
 
 <br/>
 
