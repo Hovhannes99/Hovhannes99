@@ -50,11 +50,6 @@ I am a Software Engineer who thrives in a dynamic and challenging production env
 
 
 <div align="center">
-<br/>
-        
-[![Hovhannes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hovhannes99&show_icons=true&bg_color=23272A&title_color=7289DA&text_color=FFFFFF&icon_color=7289DA&border_color=2C2F33)](https://github.com/Hovhannes99)
-
-<br/>
 
 
 <div align="right">
