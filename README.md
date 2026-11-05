@@ -3,29 +3,38 @@
 I'm a Full Stack Software Engineer and AI Product Engineer with 7+ years of experience building web and mobile apps. Lately I've been focused on bringing Generative AI and LLMs into real products that people use every day.
 At Hoory AI (SoftConstruct), I lead new features for an AI-powered customer support assistant. I build LLM workflows and conversational AI into both the web and mobile apps, so that complex AI features feel fast, reliable and simple to use.
 
-🤖 AI & LLM Integration
-▸ Building LLM-powered features and conversational AI interfaces
-▸ Turning AI and prompt workflows into production-ready web and mobile UX
-▸ Working closely with backend and AI teams on scalable, AI-first product architecture
-💻 Frontend & Full Stack Development
-▸ React.js, Next.js, Vue.js, Nuxt and Gatsby for high-traffic web apps
-▸ Node.js, Express, MongoDB and REST APIs for scalable backend services
-▸ Modular, type-safe TypeScript architecture that stays maintainable as it grows
-📱 Mobile Development
-▸ Cross-platform iOS and Android apps with React Native
-▸ Performance tuning, smooth animations and a native-like experience
-⚡ Real-Time & Performance
-▸ Low-latency WebSocket interfaces for live gaming and real-time event platforms
-▸ State management with Redux, MobX and Zustand, cutting re-renders and redundant API calls
-🏆 Highlights
-▸ Leading AI assistant feature development across web and mobile at Hoory AI
-▸ Built real-time gaming interfaces for a global user base at Dats.team
-▸ Improved UI speed in data-heavy React Native apps at Haqqex
-▸ Built full-stack products and mentored junior developers at DEVINNOTECH
-▸ Improved codebase reliability with unit and E2E testing
-🛠 Tech Stack
-JavaScript · TypeScript · React.js · Next.js · React Native · Vue.js · Nuxt · Node.js · Express · MongoDB · Redux · MobX · Zustand · Tailwind CSS · SCSS · WebSockets · Jest · LLM / Generative AI
-I'm open to Full Stack, Senior Frontend, React / React Native and AI Product Engineer roles. Let's connect! 🚀
+### 🤖 AI & LLM Integration
+* **Building LLM-powered features** and conversational AI interfaces.
+* **Turning AI and prompt workflows** into production-ready web and mobile UX.
+* **Working closely** with backend and AI teams on scalable, AI-first product architecture.
+
+### 💻 Frontend & Full Stack Development
+* **Frameworks:** React.js, Next.js, Vue.js, Nuxt and Gatsby for high-traffic web apps.
+* **Backend:** Node.js, Express, MongoDB and REST APIs for scalable backend services.
+* **Architecture:** Modular, type-safe TypeScript architecture that stays maintainable as it grows.
+
+### 📱 Mobile Development
+* **Cross-platform** iOS and Android apps with React Native.
+* **Performance tuning**, smooth animations and a native-like experience.
+
+### ⚡ Real-Time & Performance
+* **Low-latency** WebSocket interfaces for live gaming and real-time event platforms.
+* **State management** with Redux, MobX and Zustand, cutting re-renders and redundant API calls.
+
+### 🏆 Highlights
+* **Hoory AI:** Leading AI assistant feature development across web and mobile.
+* **Dats.team:** Built real-time gaming interfaces for a global user base.
+* **Haqqex:** Improved UI speed in data-heavy React Native apps.
+* **DEVINNOTECH:** Built full-stack products and mentored junior developers.
+* **Quality Assurance:** Improved codebase reliability with unit and E2E testing.
+
+### 🛠 Tech Stack
+`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `React Native` · `Vue.js` · `Nuxt` · `Node.js` · `Express` · `MongoDB` · `Redux` · `MobX` · `Zustand` · `Tailwind CSS` · `SCSS` · `WebSockets` · `Jest` · `LLM / Generative AI`
+
+---
+
+I'm open to **Full Stack**, **Senior Frontend**, **React / React Native** and **AI Product Engineer** roles. Let's connect! 🚀
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
