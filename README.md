@@ -21,12 +21,6 @@ At Hoory AI (SoftConstruct), I lead new features for an AI-powered customer supp
 * **Low-latency** WebSocket interfaces for live gaming and real-time event platforms.
 * **State management** with Redux, MobX and Zustand, cutting re-renders and redundant API calls.
 
-### 🏆 Highlights
-* **Hoory AI:** Leading AI assistant feature development across web and mobile.
-* **Dats.team:** Built real-time gaming interfaces for a global user base.
-* **Haqqex:** Improved UI speed in data-heavy React Native apps.
-* **DEVINNOTECH:** Built full-stack products and mentored junior developers.
-* **Quality Assurance:** Improved codebase reliability with unit and E2E testing.
 
 ### 🛠 Tech Stack
 `JavaScript` · `TypeScript` · `React.js` · `Next.js` · `React Native` · `Vue.js` · `Nuxt` · `Node.js` · `Express` · `MongoDB` · `Redux` · `MobX` · `Zustand` · `Tailwind CSS` · `SCSS` · `WebSockets` · `Jest` · `LLM / Generative AI`
