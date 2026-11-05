@@ -1,7 +1,8 @@
 # Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Nice to see you.
 
-
-I am a Software Engineer who thrives in a dynamic and challenging production environment.  Extensive experience in web programming with a focus on both front-end and back-end development. Proficient in JavaScript and skilled in frameworks and libraries such as React.js, Next.js, Vue.js, Gatsby.js, and Node.js. Strong understanding of TypeScript for building robust and scalable web applications.
+I'm a Full Stack Software Engineer and AI Product Engineer with 7+ years of experience building web and mobile apps. Lately I've been focused on bringing Generative AI and LLMs into real products that people use every day.
+At Hoory AI (SoftConstruct), I lead new features for an AI-powered customer support assistant. I build LLM workflows and conversational AI into both the web and mobile apps, so that complex AI features feel fast, reliable and simple to use.
+🤖 AI & LLM Integration
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
